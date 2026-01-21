@@ -5,4 +5,3 @@
         last_name
 
     from raw.jaffle_shop.customers
--- ignore
