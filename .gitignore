@@ -6,3 +6,4 @@ logs/
 __pycache__/
 .sfdx/
 .DS_Store
+dbt_internal_packages/
