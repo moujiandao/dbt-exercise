@@ -4,5 +4,5 @@ logs/
 .env
 *.pyc
 __pycache__/
-.sfdx/tools/258
+.sfdx/
 .DS_Store
