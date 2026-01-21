@@ -4,5 +4,5 @@ logs/
 .env
 *.pyc
 __pycache__/
-.sfdx/
+.forceignore
 .DS_Store
